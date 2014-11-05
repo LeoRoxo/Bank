@@ -102,7 +102,7 @@ function MM_validateForm() { //v4.0
                   </label></td>
               </tr>
             <tr>
-              <td colspan="3">Want to Create a New Account???? <a href="register.jsp">Click Here</a> </td>
+              <td colspan="3">Want to Create a New Account? <a href="register.jsp">Click Here</a> </td>
               </tr>
             <tr>
               <td>&nbsp;</td>
