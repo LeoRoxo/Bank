@@ -72,7 +72,7 @@ html,body{
 	<form id="form1" name="form1" method="post" action="doTransfer.jsp">
 	  <table width="80%" border="0" align="center" cellpadding="2" cellspacing="2">
         <tr>
-          <th colspan="3" bgcolor="#333333" scope="col"><font color="#FFFFFF">Please Select the Account to Check Your Current Balance </font></th>
+          <th colspan="3" bgcolor="#333333" scope="col"><font color="#FFFFFF">Transfer Amount </font></th>
         </tr>
         <tr>
           <td>&nbsp;</td>

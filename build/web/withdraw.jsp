@@ -114,9 +114,9 @@ function MM_validateForm() { //v4.0
           <td><label>
             <select name="accNo">
 			<%
-			for(int i=0; i<size; i++) {
+			for(int i=0; i<one.size(); i++) {
 			%>
-			<option value="<%=(String)one.get(0)%>">Acc No : <%=(String)one.get(0)%>&nbsp;&nbsp;</option>
+			<option value="<%=(String)one.get(i)%>">Acc No : <%=(String)one.get(i)%>&nbsp;&nbsp;</option>
 			<% } %>
 			</select>
           </label></td>
